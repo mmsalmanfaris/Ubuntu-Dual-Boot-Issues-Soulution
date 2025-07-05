@@ -2,7 +2,8 @@
 
 This guide fixes common issues where NTFS partitions from Windows don't show up or mount automatically in Ubuntu dual-boot systems.
 
-![Uploading Ubuntu Dual Boot- Simple NTFS Partition Auto-Mount Fix (1).png…]()
+
+![Ubuntu Dual Boot- Simple NTFS Partition Auto-Mount Fix (1)](https://github.com/user-attachments/assets/ac8032a8-ede6-417d-8e98-fc3b2177cbc8)
 
 
 ---
