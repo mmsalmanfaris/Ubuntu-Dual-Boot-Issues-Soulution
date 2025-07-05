@@ -32,7 +32,7 @@ This repository is **not just a set of commands** — it provides:
 
 | 🔧 Issue/Topic                      | 📄 Documentation Link                                                                 |
 |------------------------------------|----------------------------------------------------------------------------------------|
-| NTFS Partition Not Mounting        | [ntfs-partition-auto-mount-fix.md](ntfs-partition-auto-mount-fix.md)            |
+| NTFS Partition Not Mounting        | [ntfs-partition-auto-mount-fix.md](Partition%20Mount%20%26%20GUI%20Visibility%20Fix.md)            |
 | Soon                               | [Soon]()                                                 |
 
 
