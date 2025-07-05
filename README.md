@@ -4,7 +4,8 @@ Welcome to the **Ubuntu Dual Boot Fixes** repository — a curated collection of
 
 Whether you're dealing with bootloader failures, partition mounting problems, system update crashes, or display manager errors — this repository documents step-by-step fixes **tested and verified** through personal troubleshooting on a dual-boot system.
 
----
+![Ubuntu Dual Boot Fixes   Workarounds](https://github.com/user-attachments/assets/530e9feb-8d0d-4f10-a105-daf89ea6f8ea)
+
 
 ## 📌 Why This Exists
 
