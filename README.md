@@ -28,6 +28,17 @@ This repository is **not just a set of commands** — it provides:
 
 ---
 
+## 📚 Issue Fix Index
+
+| 🔧 Issue/Topic                      | 📄 Documentation Link                                                                 |
+|------------------------------------|----------------------------------------------------------------------------------------|
+| NTFS Partition Not Mounting        | [ntfs-partition-auto-mount-fix.md](ntfs-partition-auto-mount-fix.md)            |
+| Soon                               | [Soon]()                                                 |
+
+
+---
+
+
 ## ⚙️ Technologies & Tools Involved
 
 - `ntfsfix`, `mount`, `ntfs-3g`
